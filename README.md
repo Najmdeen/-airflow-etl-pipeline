@@ -37,8 +37,6 @@ The workflow is managed by Apache Airflow through a Directed Acyclic Graph (DAG)
 
 ## Screenshots
 
-*(Add images of your DAG execution from the Airflow UI here to make your repository look more professional)*
-
 - **DAG Graph View**:  
   ![DAG Chart](images/DAG_chart.png)
 - **Successful Run**:  
